@@ -1,2 +1,2 @@
 # Food-Order
-.NET6 MVC Food Ordering project 
+.NET 6 MVC Food Ordering project 
